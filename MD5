@@ -1,0 +1,7 @@
+d7ced137a9744afd82d4f07ad26fb1ce *DESCRIPTION
+868a0500eb2130de1eebcb0f5eaf9508 *LICENSE
+baee6d734c86f6faa4df2757fddda0b4 *NAMESPACE
+f2dfc6523ff738424ab3ee44a3681c3b *R/predict.R
+13a5fbd2a4dbd7462b213b70d3fac35e *man/onehot.Rd
+714a3a6890238ea3cd2d69c152db7ac8 *man/predict.onehot.Rd
+4161c8dbcc21bfcdfcd7d8c0ebc6f86d *src/predict.c
